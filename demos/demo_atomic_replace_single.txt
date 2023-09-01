@@ -1,0 +1,41 @@
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: Wolfgang Amadeus Mozart, born on <entity> in Salzburg, was a prolific composer of the Classical era, and he composed over 600 works.
+Standalone Fact: Wolfgang Amadeus Mozart was born on <entity>.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: Mount Everest, standing at <entity>, is the Earth's highest mountain above sea level and is part of the Himalaya range in Asia.
+Standalone Fact: Mount Everest stands at <entity>.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: The Eiffel Tower, located in Paris, France, was completed in 1889 and stands at <entity> tall.
+Standalone Fact: The Eiffel Tower is <entity> tall.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: The novel "Pride and Prejudice" by Jane Austen was published in <entity> and is considered one of the greatest works in English literature.
+Standalone Fact: The novel "Pride and Prejudice" was published in <entity>.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: The Great Wall of China stretches over <entity> and was constructed to protect Chinese states and empires from raids and invasions.
+Standalone Fact: The Great Wall of China stretches over <entity>.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: Leonardo da Vinci, an Italian polymath of the Renaissance era, painted the <entity>, which is currently housed in the Louvre Museum in Paris.
+Standalone Fact: Leonardo da Vinci painted the <entity>.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: The Pacific Ocean, the largest and deepest of Earth's oceanic divisions, covers more than <entity>.
+Standalone Fact: The Pacific Ocean covers more than <entity>.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: William Shakespeare, an <entity> and poet, wrote "Romeo and Juliet", a tragic love story set in Verona.
+Standalone Fact: William Shakespeare was an <entity>.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: Marie Curie, a physicist and <entity>, became the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different scientific fields.
+Standalone Fact: Marie Curie was a <entity>.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
+Context: The Grand Canyon, located in the U.S. state of Arizona, is a steep-sided canyon carved by the <entity> and is known for its immense size and its intricate and colorful landscape.
+Standalone Fact: The <entity> carved the Grand Canyon.
+
+Given the context, identify the <entity> placeholder and provide a concise standalone factual statement about it.
