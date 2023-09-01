@@ -1,8 +1,11 @@
 from FACT_GEN import fact_gen
 
+with open("keys.txt", "r") as f:
+    serper, openai = f.read().splitlines()
 
+    
 output_path = "test_output.txt"
-pipeline = fact_gen(output_file=output_path)
+pipeline = fact_gen(openai, serper, output_file=output_path)
 
 name = "Rob Furlong"
 prompt = f"Write a bio of {name}."

@@ -8,11 +8,10 @@ import spacy
 # Load the English language model
 nlp = spacy.load("en_core_web_trf")
 
-openai.api_key = ""
-serper_key = ""
-
 class fact_gen():
-    def __init__(self, model="gpt-3.5-turbo", output_file=None):
+    def __init__(self, openai_key, serper_key, model="gpt-3.5-turbo", output_file=None):
+        openai.api_key = openai_key
+        self.__serper_key = serper_key
         self.model_name = model
         if output_file:
             self.output_file = open(output_file, "a", buffering=1)
@@ -260,7 +259,7 @@ class fact_gen():
         "type": "search",
         })
         headers = {
-        'X-API-KEY': serper_key,
+        'X-API-KEY': self.__serper_key,
         'Content-Type': 'application/json'
         }
         conn.request("POST", "/search", payload, headers)
