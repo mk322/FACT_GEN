@@ -2,7 +2,7 @@ import openai
 import json
 from utils import stem, pos_tag_method, tokenize_process
 import http
-from bert_score import score
+#from bert_score import score
 import spacy
 
 # Load the English language model
