@@ -8,8 +8,8 @@ import spacy
 # Load the English language model
 nlp = spacy.load("en_core_web_trf")
 
-openai.api_key = "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"
-serper_key = "45a045c883ae768b9b94bb5dc1577fcda3886590"
+openai.api_key = ""
+serper_key = ""
 
 class fact_gen():
     def __init__(self, model="gpt-3.5-turbo", output_file=None):
