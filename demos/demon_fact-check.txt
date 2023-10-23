@@ -9,11 +9,6 @@ Claim: Paris is a city in Europe.
 Only based on the evidence above, the claim is true
 
 Determine if the following claim is true or false given the evidence.
-Evidence: Whales are mammals, not fish.
-Claim: Whales are fish.
-Only based on the evidence above, the claim is false
-
-Determine if the following claim is true or false given the evidence.
 Claim: Honey is produced by bees.
 Evidence: Bees collect nectar from flowers and transform it into honey, storing it in their hives.
 Only based on the evidence above, the claim is true
