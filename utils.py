@@ -41,10 +41,3 @@ def pos_tag_method(text):
 
     return ret_tags
 
-
-#s1 = stem("founder of Impressionist movement")
-#s2 = stem("founders of the Impressionist movement")
-#print(s1)
-#print(s2)
-
-
